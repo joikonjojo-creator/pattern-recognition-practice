@@ -216,5 +216,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Службові файли операційних систем
+.DS_Store
+Thumbs.db
+
 # Streamlit
 .streamlit/secrets.toml
